@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "SSformer: A lightweight transformer for semantic segmentation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://ieeexplore.ieee.org/abstract/document/9949177
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-09-26
+venue: '2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9949177'
+citation: 'Shi, Wentao, Jing Xu, and Pan Gao. "SSformer: A lightweight transformer for semantic segmentation." 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is my first work of my whole research career. We focus on semantic segmentation task and try to prove that an decoder for specific task can be very simple. We utilize a simple MLP decoder for swin transformer encoder in this work, named SSformer, and experiments show that the lightweight SSformer is still powerful.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Shi, Wentao, Jing Xu, and Pan Gao. "SSformer: A lightweight transformer for semantic segmentation." 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2022.
