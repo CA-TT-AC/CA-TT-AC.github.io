@@ -6,7 +6,7 @@ excerpt: 'This paper is the first work of my whole research career. We focus on 
 date: 2022-09-26
 author: Shi Wentao, Jing Xu, Pan Gao
 venue: '2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9949177'
+# paperurl: 'https://ieeexplore.ieee.org/abstract/document/9949177'
 # citation: 'Shi, Wentao, Jing Xu, and Pan Gao. "SSformer: A lightweight transformer for semantic segmentation." 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2022.'
 ---
 

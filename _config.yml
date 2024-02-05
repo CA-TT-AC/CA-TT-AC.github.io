@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jing Xu (徐敬)"
   avatar           : "my_pic.jpg"
-  bio              : "Undergraduate student majored in AI."
-  location         : "Edinburgh, Scotland"
+  bio              : "An undergraduate student majored in AI, focusing on computer vision and AI application. Wish to build some interesting and useful things for the world."
+  location         : "Nanjing, China"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4_2m0_YAAAAJ"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  # facebook         :
   foursquare       :
   github           : "https://github.com/CA-TT-AC"
   google_plus      :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
