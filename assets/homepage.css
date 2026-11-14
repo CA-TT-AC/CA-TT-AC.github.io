@@ -17,3 +17,8 @@
 @media(max-width:680px){.paper-text-only .paper-main{grid-column:1}}
 
 .paper-distinction{display:inline-block;margin-left:12px;color:#a54815;font-size:13px;font-weight:700}
+
+/* Keep link-extension decorations inside the figure cell, outside grid placement. */
+.paper-figure{grid-column:1;grid-row:1;min-width:0}
+.paper-main{grid-column:2;grid-row:1;min-width:0}
+@media(max-width:680px){.paper-figure{grid-column:1;grid-row:1}.paper-main{grid-column:1;grid-row:2}.paper-text-only .paper-main{grid-row:1}}
