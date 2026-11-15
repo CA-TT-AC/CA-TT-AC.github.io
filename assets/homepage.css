@@ -22,3 +22,15 @@
 .paper-figure{grid-column:1;grid-row:1;min-width:0}
 .paper-main{grid-column:2;grid-row:1;min-width:0}
 @media(max-width:680px){.paper-figure{grid-column:1;grid-row:1}.paper-main{grid-column:1;grid-row:2}.paper-text-only .paper-main{grid-row:1}}
+
+/* Larger research figures and comfortable publication typography. */
+.paper{grid-template-columns:320px minmax(0,1fr);gap:34px;padding:32px 0}
+.paper-image{padding:8px}.paper-image img{height:190px}
+.paper h3{font-size:21px;line-height:1.45}
+.authors{font-size:16px;line-height:1.65;margin-top:10px}
+.venue{font-size:15px;line-height:1.65;margin-top:7px}
+.paper-year,.resource,.paper-distinction{font-size:14px}
+.publication-note{font-size:13px;line-height:1.8}.publication-note .corresponding-legend{margin-left:12px}
+.authors .corresponding{font-size:12px;color:var(--ink);margin-left:2px}
+@media(max-width:1000px){.paper{grid-template-columns:280px minmax(0,1fr);gap:26px}.paper-image img{height:170px}}
+@media(max-width:760px){.paper{grid-template-columns:1fr;gap:20px}.paper-figure{grid-column:1;grid-row:1}.paper-main{grid-column:1;grid-row:2}.paper-image img{height:auto;max-height:260px;min-height:140px}.paper h3{font-size:20px}.authors{font-size:15px}.venue{font-size:14px}.paper-year,.resource,.paper-distinction{font-size:13px}}

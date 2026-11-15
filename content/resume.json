@@ -12,7 +12,10 @@
           "url": "https://doi.org/10.1145/3767308.3836535"
         }
       ],
-      "image": "rise-framework.png"
+      "image": "rise-framework.png",
+      "corresponding": [
+        "Weikai Yang"
+      ]
     },
     {
       "title": "LegendBench: A Diagnostic Benchmark for Legend Understanding with Counterfactual Interventions",
@@ -26,7 +29,10 @@
           "url": "https://arxiv.org/abs/2609.24172"
         }
       ],
-      "image": "legend.png"
+      "image": "legend.png",
+      "corresponding": [
+        "Weikai Yang"
+      ]
     },
     {
       "title": "WidgetVA: A Widget-Centric Framework and Benchmark for Agentic Visual Analytics",
@@ -40,7 +46,10 @@
           "url": "https://arxiv.org/abs/2609.24094"
         }
       ],
-      "image": "widget.png"
+      "image": "widget.png",
+      "corresponding": [
+        "Weikai Yang"
+      ]
     },
     {
       "title": "Learning from Near-Misses: Error-Aware Contrastive Few-Shot Learning for NL2Formula",
@@ -55,7 +64,10 @@
         }
       ],
       "image": "nl2formula.jpg",
-      "distinction": "Oral"
+      "distinction": "Oral",
+      "corresponding": [
+        "Weikai Yang"
+      ]
     },
     {
       "title": "Show Me the Infographic I Imagine: Intent-Aware Infographic Retrieval for Authoring Support",
@@ -69,7 +81,10 @@
           "url": "https://infographicretrieval.github.io/"
         }
       ],
-      "image": "show-me.jpg"
+      "image": "show-me.jpg",
+      "corresponding": [
+        "Weikai Yang"
+      ]
     },
     {
       "title": "Fast Wrong-way Cycling Detection in CCTV Videos: Sparse Sampling is All You Need",
@@ -83,7 +98,11 @@
           "url": "https://doi.org/10.1109/TITS.2025.3644245"
         }
       ],
-      "image": "wwc.png"
+      "image": "wwc.png",
+      "corresponding": [
+        "Weikai Yang",
+        "Pan Gao"
+      ]
     },
     {
       "title": "MUSTER: A Multi-scale Transformer-based Decoder for Semantic Segmentation",
@@ -97,7 +116,10 @@
           "url": "https://ieeexplore.ieee.org/document/10669920/"
         }
       ],
-      "image": "muster-architecture.svg"
+      "image": "muster-architecture.svg",
+      "corresponding": [
+        "Pan Gao"
+      ]
     },
     {
       "title": "CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs",
@@ -112,7 +134,10 @@
         }
       ],
       "image": "cadtalk.png",
-      "distinction": "Highlight Paper"
+      "distinction": "Highlight Paper",
+      "corresponding": [
+        "Changjian Li"
+      ]
     },
     {
       "title": "DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation",
@@ -126,7 +151,10 @@
           "url": "https://arxiv.org/abs/2405.05800"
         }
       ],
-      "image": "drag-pipeline.svg"
+      "image": "drag-pipeline.svg",
+      "corresponding": [
+        "Xinchao Wang"
+      ]
     },
     {
       "title": "Key Patch Proposer: Key Patches Contain Rich Information",
@@ -145,7 +173,10 @@
         }
       ],
       "image": "kpp.png",
-      "distinction": "Notable Paper"
+      "distinction": "Notable Paper",
+      "corresponding": [
+        "Hao Zhao"
+      ]
     },
     {
       "title": "SSformer: A Lightweight Transformer for Semantic Segmentation",
@@ -163,7 +194,10 @@
           "url": "https://github.com/shiwt03/SSformer"
         }
       ],
-      "image": "ssformer.png"
+      "image": "ssformer.png",
+      "corresponding": [
+        "Pan Gao"
+      ]
     }
   ],
   "education": [
