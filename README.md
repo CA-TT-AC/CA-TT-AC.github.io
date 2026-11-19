@@ -1,6 +1,6 @@
 # Jing Xu - Academic homepage
 
-A lightweight static academic homepage. Structure follows https://vicayang.cc/ with the original white, serif-and-blue visual direction. Only publicly released papers appear: 11 papers, each with its original paper figure. No Projects section.
+A lightweight static academic homepage. Structure follows https://vicayang.cc/ with the pale lavender background, serif headings and deep purple accents. Only publicly released papers appear: 11 papers, each with its original paper figure. No Projects section.
 
 ## Preview
 

@@ -79,6 +79,10 @@
         {
           "label": "Project",
           "url": "https://infographicretrieval.github.io/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/InfographicRetrieval/intent-aware-infographic-retrieval"
         }
       ],
       "image": "show-me.jpg",
@@ -96,6 +100,10 @@
         {
           "label": "Paper",
           "url": "https://doi.org/10.1109/TITS.2025.3644245"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/VICA-Lab-HKUST-GZ/WWC-Predictor"
         }
       ],
       "image": "wwc.png",
@@ -114,6 +122,10 @@
         {
           "label": "Paper",
           "url": "https://ieeexplore.ieee.org/document/10669920/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/shiwt03/MUSTER"
         }
       ],
       "image": "muster-architecture.svg",
@@ -131,6 +143,10 @@
         {
           "label": "Project",
           "url": "https://enigma-li.github.io/CADTalk/"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/YYYYYHC/CADTalk"
         }
       ],
       "image": "cadtalk.png",
